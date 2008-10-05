@@ -1,7 +1,7 @@
-== POOKMAIL INSTALLATION ==
+= POOKMAIL INSTALLATION =
 
 
-= BASE SYSTEM ==
+== BASE SYSTEM ==
 
  1. Add the following repositories to /etc/apt/sources.list
  {{{
@@ -113,7 +113,7 @@
    }}}
 
 
-= SOURCE CODE =
+== SOURCE CODE ==
  1. Add "127.0.0.1 pookmail pookmail.com www.pookmail.com" to /etc/hosts
  1. Create Pookmail users
    1. groupadd pookmail
