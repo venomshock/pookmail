@@ -12,7 +12,7 @@
 
 == Captcha (optional) ==
  * ZLib 1.2.3
- * FreeType? 2.1.10
+ * Free Type 2.1.10
  * LibJPEG 6b
  * LibPNG 1.2.8
  * GD 2.0.33
