@@ -9,7 +9,6 @@
  * DBI
  * Digest::MD5
  * Net::SMTP::Server
- * CAPTCHA REQUIREMENTS (OPTIONAL)
 
 == Captcha (optional) ==
  * ZLib 1.2.3
